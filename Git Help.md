@@ -30,3 +30,12 @@ git branch
 ```
 git remote add origin https://github.com/Ramonak321/GB_Learning.git
 ```
+Добавление файла в репозиторий
+```
+git push
+```
+
+Выгрузка из репозитория
+```
+git pull
+```
